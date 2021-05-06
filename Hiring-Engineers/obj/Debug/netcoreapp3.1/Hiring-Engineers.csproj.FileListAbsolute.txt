@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\bin\Debug\netcoreapp3.1\Hiring-Engineers.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\-Hiring-Engineers\Hiring-Engineers\obj\Debug\netcoreapp3.1\Hiring-Engineers.genruntimeconfig.cache
